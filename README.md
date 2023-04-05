@@ -5,12 +5,37 @@
 - :books: Currently attending college in Information Systems
 
 # Skills and Tools
+**Mobile Languages**
+<br>
+<img src="icons/kotlin.png" width="80" height="80" title="Kotlin">
+<img src="icons/java.png" width="100" height="100" title="Java">
+<br><br>
 
-<img src="icons/kotlin.png" alt="Kotlin">
-<img src="icons/java.png" alt="Java">
+**FrontEnd Languages**
+<br>
+<img src="icons/html.png" width="100" height="100" title="HTML" >
+<img src="icons/css.png" width="100" height="100" title="CSS" >
+<img src="icons/javascript.png" width="100" height="100" title="JavaScript" >
+<img src="icons/typescript.png" width="100" height="100" title="TypeScript" >
+<img src="icons/vue.png" width="100" height="100" title="Vue" >
+<br><br>
 
+**BackEnd Languages**
+<br>
+<img src="icons/c.png" width="100" height="100" title="C" >
+<img src="icons/c_sharp.png" width="100" height="100" title="C#" >
+<br><br>
 
+**Database**
+<br>
+<img src="icons/postgresql.png" width="100" height="100" title="PostegreSQL" >
+<img src="icons/sql_server.png" width="100" height="100" title="Microsoft SQL Server">
 
+**Tools**
+<br>
+<img src="icons/android_studio.png" width="100" height="100" title="Android Studio" >
+<img src="icons/visual_studio.png" width="150" height="100" title="Visual Studio" >
+<img src="icons/vscode.png" width="100" height="100" title="Visual Studio Code">
 
-#Contact Me
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/rfgvieira/)
+# Contact Me
+<a href="https://www.linkedin.com/in/rfgvieira/"><img src="icons/linkedin.png" width="100" height="100" title="Linkedin"></a>
