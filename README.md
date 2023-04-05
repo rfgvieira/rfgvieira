@@ -37,5 +37,10 @@
 <img src="icons/visual_studio.png" width="150" height="100" title="Visual Studio" >
 <img src="icons/vscode.png" width="100" height="100" title="Visual Studio Code">
 
+# Stats
+
+![Rfgvieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfgvieira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfgvieira&theme=tokyonight&layout=compact)
+
 # Contact Me
 <a href="https://www.linkedin.com/in/rfgvieira/"><img src="icons/linkedin.png" width="100" height="100" title="Linkedin"></a>
