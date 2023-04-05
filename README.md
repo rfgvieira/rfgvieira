@@ -6,7 +6,9 @@
 
 # Skills and Tools
 
-<img src="icons/kotlin" alt="Kotlin">
+<img src="icons/kotlin.png" alt="Kotlin">
+<img src="icons/java.png" alt="Java">
+
 
 
 
