@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me
+- :iphone:  Experience working with Mobile Development(Android) for a year plus study projects
+- :desktop_computer: Experience with FrontEnd Development on college projects
+- :robot: Interess on learning about AI or BackEnd Development
+- :books: Currently attending college in Information Systems
 
-<!--
-**rfgvieira/rfgvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills and Tools
 
-Here are some ideas to get you started:
+<img src="icons/kotlin" alt="Kotlin">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#Contact Me
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/rfgvieira/)
