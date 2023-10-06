@@ -24,6 +24,7 @@
 <br>
 <img src="icons/c.png" width="100" height="100" title="C" >
 <img src="icons/c_sharp.png" width="100" height="100" title="C#" >
+<img src="icons/python.png" width="100" height="100" title="Python" >
 <br><br>
 
 **Database**
