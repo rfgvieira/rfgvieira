@@ -9,6 +9,7 @@
 <br>
 <img src="icons/kotlin.png" width="80" height="80" title="Kotlin">
 <img src="icons/java.png" width="100" height="100" title="Java">
+<img src="icons/flutter.png" width="100" height="100" title="Flutter">
 <br><br>
 
 **FrontEnd Languages**
@@ -18,6 +19,7 @@
 <img src="icons/javascript.png" width="100" height="100" title="JavaScript" >
 <img src="icons/typescript.png" width="100" height="100" title="TypeScript" >
 <img src="icons/vue.png" width="100" height="100" title="Vue" >
+<img src="icons/react.png" width="100" height="100" title="React">
 <br><br>
 
 **BackEnd Languages**
