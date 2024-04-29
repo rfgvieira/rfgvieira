@@ -1,8 +1,8 @@
 # About Me
 - :iphone:  Experience working with Mobile Development(Android) for a year plus study projects
 - :desktop_computer: Experience with FrontEnd Development on college projects
-- :robot: Interess on learning about AI or BackEnd Development
-- :books: Currently attending college in Information Systems
+- :robot: Interess on improve my knowledges about AI and BackEnd Development
+- :books: Graduated in Information Systems Major in USP
 
 # Skills and Tools
 **Mobile Languages**
